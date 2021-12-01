@@ -1,0 +1,15 @@
+@use "_mq.scss";
+@use "_variables-custom.scss";
+@import "../../node_modules/uikit/src/scss/variables.scss";
+@import "../../node_modules/uikit/src/scss/mixins.scss";
+@import "_mixins-custom.scss";
+@import "../../node_modules/uikit/src/scss/uikit.scss";
+
+body {
+  background: #000;
+  height: 100%;
+}
+
+html {
+  height: 100%;
+}
